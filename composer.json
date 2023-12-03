@@ -1,0 +1,17 @@
+{
+    "name": "vova_xz/hexlet-php",
+    "description": "first project",
+    "autoload": {
+        "psr-4": {
+            "VovaXz\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladimir",
+            "email": "vladimir156xz@gmail.com"
+		"role": "average guy, slave of the system"
+        }
+    ],
+    "require": {}
+}
