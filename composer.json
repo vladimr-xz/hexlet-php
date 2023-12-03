@@ -9,9 +9,11 @@
     "authors": [
         {
             "name": "Vladimir",
-            "email": "vladimir156xz@gmail.com"
+            "email": "vladimir156xz@gmail.com",
 		"role": "average guy, slave of the system"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.52"
+    }
 }
